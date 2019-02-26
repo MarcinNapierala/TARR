@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/MikiKru/JavaPP/commit/35ffd2d72f04e8cf421008db87ef94b1505c3f4a" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MikiKru/TestGit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\RENT\IdeaProjects\tarr4" />
